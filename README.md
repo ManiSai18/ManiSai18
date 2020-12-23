@@ -23,10 +23,4 @@
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ManiSai18&show_icons=true" alt="ManiSai18" /> </p>
 <p align="center">
   
-<a href="https://dev.to/ManiSai18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ManiSai18" height="20" width="20" /></a>
-
-<a href="https://codesandbox.com/ManiSai18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ManiSai18" height="20" width="20" /></a>
-
-_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_
-
-See how this README works [here](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd)
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiSai18&layout=compact&hide=html" alt="Mani Sai" /></p>
