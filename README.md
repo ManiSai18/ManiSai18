@@ -23,7 +23,7 @@
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ManiSai18&show_icons=true" alt="ManiSai18" /> </p>
 <p align="center">
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiSai18&layout=compact&hide=html" alt="Mani Sai" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiSai18&layout=compact" alt="Mani Sai" /></p>
 
 
 ## Connect with me  
