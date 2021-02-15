@@ -9,16 +9,14 @@
 - 👨‍💻 All of my projects are available at [https://github.com/ManiSai18](https://github.com/ManiSai18)
 
 <p align="left">
- <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="php" width="40" height="40"/> 
- 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
- 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+ <img src="/assets/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="/assets/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="/assets/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="/assets/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="/assets/php-plain.svg" alt="php" width="40" height="40"/> 
+  <img src="/assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+ <img src="/assets/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
+  <img src="/assets/django-original.svg" alt="django" width="40" height="40"/> 
   
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ManiSai18&show_icons=true" alt="ManiSai18" /> </p>
 <p align="center">
