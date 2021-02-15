@@ -35,6 +35,7 @@
 <br />
 
 ## Connect with me  
+<p>
 <div align="center">
   
 <a href="https://www.instagram.com/the.mani.sai/" target="_blank">
@@ -42,3 +43,4 @@
 </a>
 
 </div>  
+</p>
