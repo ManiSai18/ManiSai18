@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManiSai18](https://github.com/ManiSai18)
 
+### Tech Stack
+
 <p align="left">
  <img src="/assets/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="/assets/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -17,11 +19,14 @@
   <img src="/assets/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  <img src="/assets/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
   <img src="/assets/django-original.svg" alt="django" width="40" height="40"/> 
-  
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ManiSai18&show_icons=true" alt="ManiSai18" /> </p>
+</p>
+
+
+### 📊 Github Stats
 <p align="center">
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiSai18&layout=compact" alt="Mani Sai" /></p>
+   <p> <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ManiSai18&show_icons=true" alt="ManiSai18" /> </p>
+  <p>  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiSai18&layout=compact" alt="Mani Sai" /> </p>
+</p>
 
 
 ## Connect with me  
